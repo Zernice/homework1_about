@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+<meta charset = "utf-8" />
+<BODY bgcolor="#FAEBD7"></BODY>
+
+</head>
+<body>
+
+<h2><Center>Homepage</Center></h2>
+<h3><Center>Home about form</Center></h3>
+
+<table width="100%" border=2 >
+  <tr>
+   <td><h4><Center>สิ่งที่ชอบ</Center></h4></td>
+   <td><h4><Center>สิ่งที่ไม่ชอบ</Center></h4></td>
+  </tr><br>
+   <tr>
+      <td>เล่นเกมส์</td>
+      <td>ตี code ไม่ออก แล้วเขียน code error</td>  
+   </tr>
+    <tr>
+      <td>ฟังเพลงงใน youtube</td>
+      <td>ฟังภาษาอังกฤษแล้วแปลไม่ค่อยออก</td>  
+   </tr>
+    <tr>
+      <td>ทำขนม</td>
+      <td>โดนย้ายเตาอบกลับชัยนาท</td>  
+   </tr>
+    <tr>
+      <td>กินไอติม Chocolate</td>
+      <td>ผลไม้</td>  
+   </tr>
+    <tr>
+      <td>ดู Grimm</td>
+      <td>Grimm หมด Season</td>  
+   </tr>
+   
+   <center><iframe src="https://giphy.com/embed/4Zo41lhzKt6iZ8xff9" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/4Zo41lhzKt6iZ8xff9"></a></p></center>
+   
+</body>
+</html>
